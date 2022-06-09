@@ -6,8 +6,8 @@ I love learning about how people and organizations are applying advancements in 
 ### - Machine Learning in Python
 <ul>
   <li> Neural Networks
-<li> Text Mining (NLP, LSA, Sentiment Analysis, Topic Modeling, Text Summarization, Complexity Analysis)
-<li> Decision Trees  (Classification and Regression)
+  <li> <a href="https://github.com/eburke16/Text-Mining">Text Mining</a> (<a href="https://github.com/eburke16/Text-Mining/blob/main/NLP.ipynb">NLP</a>, <a href="https://github.com/eburke16/Text-Mining/blob/main/Document%20Similarity%20Analysis.ipynb">LSA</a>, Sentiment Analysis, Topic Modeling, Text Summarization, Complexity Analysis)
+  <li> <a href="https://github.com/eburke16/Decision-Trees">Decision Trees</a>  (Classification and Regression)
 <li> Clustering Analysis (k-means and DBSCAN)
 <li> Feature Extraction
 <li> Autoencoders and Generative Networks
