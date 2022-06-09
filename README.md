@@ -20,7 +20,7 @@ I love learning about how people and organizations are applying advancements in 
 ### - Geospatial Analysese I have conducted in ArcGIS and Python
 
 ### - Quantitative Methods & Regression Analysis in R  
-When and how to use the following regression techniques (and how to interpret the results!):
+When and how to use the following regression techniques (and how to interpret the results):
   <ul>
     <li>Linear Regression
       <li>Non-Linear Regression Functions
@@ -36,7 +36,7 @@ When and how to use the following regression techniques (and how to interpret th
 My love of learning extends beyond the classroom.
 <ul>
   <li> My family has lived in four countries (<b>Haiti, Senegal, Italy,</b> and the <b>United States</b>).  We love exploring new places, learning new languages, experimenting with new recipes, and meeting new people.  
-<li> I started learning how to play tennis in 2022 and I'm hooked.  It is far more challenging and fun than I expected.  
+<li> I started learning how to play tennis in 2022 and I'm hooked.  It is far more challenging and fun than I expected!   
 </ul>  
   
 Please free to reach out for a coffee chat. ☕️
