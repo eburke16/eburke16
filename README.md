@@ -17,7 +17,7 @@ I love learning about how people and organizations are applying advancements in 
 
 ### - Data Visualizations in R using ggplot and shiny
 
-### - Geospatial Analysese I have conducted in ArcGIS and Python
+### - Geospatial Analyses I have conducted in ArcGIS and Python
 
 ### - Quantitative Methods & Regression Analysis in R  
 When and how to use the following regression techniques (and how to interpret the results):
