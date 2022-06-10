@@ -1,7 +1,6 @@
 ## Hello. Thank you for stopping by!
 
-
-I love learning about how people and organizations are applying advancements in data science to solve complex problems. My goal is to develop repositories with examples of work I have built over the past few years in R and Python in the following categories:
+These repositories are a work in progress.  Their purpoose is to offer examples of my work in R and Python in the following categories:
 
 ### - Machine Learning in Python
 <ul>
@@ -40,10 +39,10 @@ When and how to use the following regression techniques (and how to interpret th
 My love of learning extends beyond the classroom.
 <ul>
   <li> My family and I have lived in four countries: <b>Haiti, Senegal, Italy,</b> and the <b>United States</b>.
-    <li> I grew up in Massachusetts, but spent my summers working in New Hampshire, South Carolina, Colorado, and Wyoming.
+  <li> I grew up in <b>Massachusetts</b>, but spent my summers working in <b>New Hampshire, South Carolina, Colorado</b>, and <b>Wyoming</b>.
     <li> I absolutely love exploring new places, learning new languages, experimenting with new recipes, and meeting new people.  
 <li> I started learning how to play tennis in 2022 and I'm 100% hooked.  
 </ul>  
   
-Please free to reach out for a coffee chat. ☕️ 
+I love learning about how people and organizations are applying advancements in data science to solve complex problems. Please free to reach out for a coffee chat. ☕️ 
 
