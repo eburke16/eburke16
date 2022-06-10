@@ -44,5 +44,7 @@ My love of learning extends beyond the classroom.
 <li> I started learning how to play tennis in 2022 and I'm 100% hooked.  
 </ul>  
   
-I love learning about how people and organizations are applying advancements in data science to solve complex problems. Please free to reach out for a coffee chat. ☕️ 
+I love learning about how people and organizations are applying advancements in data science to solve complex problems. 
+
+Please free to reach out for a coffee chat. ☕️ 
 
