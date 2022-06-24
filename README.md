@@ -20,6 +20,7 @@ These repositories are a work in progress.  Their purpoose is to offer examples 
 <ul>
   <li> Read more about the risk analysis and stochastic Project Management Risk models I created using Monte Carlo simulation <a href="https://github.com/eburke16/RiskAnalytics">here</a>.
   </ul>
+  
 ### - Geospatial Analyses I have conducted in ArcGIS and Python
 <ul>
   <li> Authored Python-based ArcGIS tool to produce maps with near real-time U.S. hospitalization occupancy rates, creating potential for public and private sector strategic response plans.
